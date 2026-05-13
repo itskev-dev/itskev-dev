@@ -1,50 +1,61 @@
 <p align="center">
-  <img src="https://c4.wallpaperflare.com/wallpaper/233/332/949/anime-anime-girls-sky-blue-wallpaper-thumb.jpg" width="100%" />
+  <img src="https://c4.wallpaperflare.com/wallpaper/233/332/949/anime-anime-girls-sky-blue-wallpaper-thumb.jpg" width="100%" style="border-radius: 15px;" />
 </p>
 
-# itsKevDev
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=89CFF0&center=true&vCenter=true&width=435&lines=Greetings+from+Kevin;Backend+Automation+Dev;SSL+Security+Expert;Building+Digital+Ecosystems" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://itskev.vercel.app"><code>🌐 itskev.vercel.app</code></a> &nbsp;&nbsp;
+  <a href="mailto:itskevin.dev@gmail.com"><code>📧 itskevin.dev@gmail.com</code></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Operational-89CFF0?style=for-the-badge&logo=statuspage&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vibe-Soft_Blue-white?style=for-the-badge&logo=visual-studio-code&logoColor=89CFF0" />
+</p>
+
+---
+
+### ☁️ SYSTEM_OVERVIEW
+Seorang pengembang yang berfokus pada **efisiensi** dan **keindahan**. Menyatukan logika pemrograman yang kuat dengan estetika visual yang tenang. 
+
+> *"Seperti langit yang tetap biru meski awan datang melintas, kode yang baik tetap kokoh meski tantangan datang tanpa batas."*
+
+---
+
+### 🛠️ CORE_PROFICIENCY
 <p align="left">
-  <strong>Software Engineer | Backend & Automation Specialist</strong><br>
-  Focused on building scalable automation systems and secure network infrastructures.
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,nodejs,html,css,linux,vercel,cloudflare,nginx,git&theme=light" />
+  </a>
 </p>
 
-[![Website](https://img.shields.io/badge/Official_Site-itskev.dev-89CFF0?style=flat-square)](https://itskev.dev)
-[![Email](https://img.shields.io/badge/Contact-hi%40itskev.dev-white?style=flat-square&logo=gmail)](mailto:hi@itskev.dev)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](https://opensource.org/licenses/MIT)
-
 ---
 
-### 📋 Professional Summary
-Software developer dengan spesialisasi pada arsitektur sistem berbasis **Node.js** dan **Python**. Memiliki keahlian mendalam dalam pengembangan **WhatsApp Bot Ecosystem**, integrasi **API**, dan pengamanan jaringan melalui protokol **SSL/TLS**. Aktif mengelola deployment server pada lingkungan **Linux** dan **Cloud Environments**.
-
-> *"Success is not the final destination; it is the consistency of building meaningful lines of code every single day."*
-
----
-
-### 🛠 Technical Proficiency
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `JavaScript (ES6+)`, `Python 3.x`, `HTML5`, `CSS3` |
-| **Backend / Runtime** | `Node.js`, `Express.js`, `NPM` |
-| **Security & Ops** | `SSL/TLS Configuration`, `Linux/Termux`, `Nginx` |
-| **Cloud & Tools** | `Vercel`, `Cloudflare`, `Git/GitHub`, `Railway` |
-
----
-
-### 📈 Contribution Metrics
+### 📈 LIVE_METRICS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=sky&hide_border=true&title_color=89CFF0&bg_color=ffffff00" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=sky&hide_border=true&title_color=89CFF0&bg_color=ffffff00" height="165" />
+  <!-- Grafik Kontribusi dalam bentuk Gelombang Biru -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itskev-dev&bg_color=ffffff&color=89CFF0&line=89CFF0&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itskev-dev&show_icons=true&theme=sky&hide_border=true&title_color=89CFF0&bg_color=ffffff00" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itskev-dev&layout=compact&theme=sky&hide_border=true&title_color=89CFF0&bg_color=ffffff00" height="165" />
 </p>
 
 ---
 
-### 📜 Licensing & Open Source
-Seluruh proyek publik yang dikembangkan di bawah organisasi ini dilisensikan di bawah **MIT License**. Kami sangat menjunjung tinggi kolaborasi dan keamanan integritas kode dalam komunitas open-source.
+### ❄️ TECHNICAL_JOURNEY
+- **Automation:** Mengembangkan ekosistem WhatsApp Bot yang responsif dan stabil.
+- **Security:** Implementasi SSL/TLS tingkat lanjut untuk enkripsi data end-to-end.
+- **Environment:** Optimalisasi performa server melalui lingkungan Linux & Termux.
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=89CFF0&style=flat-square&label=STATION.ID+STATUS:+ACTIVE" />
+  <img src="https://komarev.com/ghpvc/?username=itskev-dev&color=89CFF0&style=flat-square&label=STATION.ID+STATUS:+ACTIVE" />
 </p>
+
+<p align="center">─── ⋆⋅☆⋅⋆ ───</p>
