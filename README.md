@@ -1,48 +1,50 @@
 <p align="center">
-  <img src="https://c4.wallpaperflare.com/wallpaper/233/332/949/anime-anime-girls-sky-blue-wallpaper-thumb.jpg" width="100%" style="border-radius: 10px;" />
+  <img src="https://c4.wallpaperflare.com/wallpaper/233/332/949/anime-anime-girls-sky-blue-wallpaper-thumb.jpg" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=89CFF0&center=true&vCenter=true&width=435&lines=Initialising+System...;Hello%2C+I'm+Kevin;Automation+Architect;Secure+System+Developer" alt="Typing SVG" />
+# itsKevDev
+<p align="left">
+  <strong>Software Engineer | Backend & Automation Specialist</strong><br>
+  Focused on building scalable automation systems and secure network infrastructures.
 </p>
 
-<p align="center">
-  <a href="https://itskev.dev"><code>itskev.dev</code></a> • <a href="mailto:hi@itskev.dev"><code>hi@itskev.dev</code></a>
-</p>
+[![Website](https://img.shields.io/badge/Official_Site-itskev.dev-89CFF0?style=flat-square)](https://itskev.dev)
+[![Email](https://img.shields.io/badge/Contact-hi%40itskev.dev-white?style=flat-square&logo=gmail)](mailto:hi@itskev.dev)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](https://opensource.org/licenses/MIT)
 
 ---
 
-### ✦ SYSTEM_PROFILE
-| Property | Value |
+### 📋 Professional Summary
+Software developer dengan spesialisasi pada arsitektur sistem berbasis **Node.js** dan **Python**. Memiliki keahlian mendalam dalam pengembangan **WhatsApp Bot Ecosystem**, integrasi **API**, dan pengamanan jaringan melalui protokol **SSL/TLS**. Aktif mengelola deployment server pada lingkungan **Linux** dan **Cloud Environments**.
+
+> *"Success is not the final destination; it is the consistency of building meaningful lines of code every single day."*
+
+---
+
+### 🛠 Technical Proficiency
+
+| Category | Technologies |
 | :--- | :--- |
-| **Status** | `Operational` |
-| **Core** | `JavaScript` • `Python` |
-| **Environment** | `Linux / Termux` |
-| **Focus** | `Bot Architecture` • `SSL Security` |
+| **Languages** | `JavaScript (ES6+)`, `Python 3.x`, `HTML5`, `CSS3` |
+| **Backend / Runtime** | `Node.js`, `Express.js`, `NPM` |
+| **Security & Ops** | `SSL/TLS Configuration`, `Linux/Termux`, `Nginx` |
+| **Cloud & Tools** | `Vercel`, `Cloudflare`, `Git/GitHub`, `Railway` |
 
 ---
 
-### ✦ TECHNICAL_SKILLS
-> Menjiwai filosofi "Clean Code" dan "Secure Logic" dalam setiap baris perintah.
-
-**Main Environment & Languages**
-![Skills](https://skillicons.dev/icons?i=js,py,nodejs,html,css&theme=light)
-
-**Infrastructure & Deployment**
-![Infrastructure](https://skillicons.dev/icons?i=linux,vercel,cloudflare,git,nginx&theme=light)
-
----
-
-### ✦ PERFORMANCE_METRICS
+### 📈 Contribution Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=sky&hide_border=true&title_color=89CFF0&text_color=777&bg_color=ffffff00" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=sky&hide_border=true&title_color=89CFF0&text_color=777&bg_color=ffffff00" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=sky&hide_border=true&title_color=89CFF0&bg_color=ffffff00" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=sky&hide_border=true&title_color=89CFF0&bg_color=ffffff00" height="165" />
 </p>
 
 ---
 
-### ✦ LEGAL_NOTICE
-```text
-[ LICENSE: MIT ]
-Semua source code publik dikembangkan dengan standar integritas tinggi.
-Bebas untuk digunakan, dimodifikasi, dan disebarluaskan.
+### 📜 Licensing & Open Source
+Seluruh proyek publik yang dikembangkan di bawah organisasi ini dilisensikan di bawah **MIT License**. Kami sangat menjunjung tinggi kolaborasi dan keamanan integritas kode dalam komunitas open-source.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=89CFF0&style=flat-square&label=STATION.ID+STATUS:+ACTIVE" />
+</p>
